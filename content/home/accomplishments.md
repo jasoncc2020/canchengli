@@ -56,7 +56,7 @@ item:
   title: Co-IEEE Transactions on Affective Computing  
   url: ""
   
-  - date_end: ""
+ - date_end: ""
   date_start: "2019-05-01"
   description: ""
   organization: IEEE
