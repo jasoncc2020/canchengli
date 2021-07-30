@@ -1,7 +1,7 @@
 ---
-title: "4. Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality  (Times cited = 10)"
+title: "4. Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality  (Times cited = 11)"
 authors:
-- Jing Fang, Tao Wang, Cancheng Li
+- J. Fang, T. Wang, C. Li, X. Hu, E. Ngai, B. Seet, J. Cheng, Y. Guo, X. Jiang
 - IEEE ACCESS, 2021, 21 (3), 3260-3270
 date: "2019-12-02"
 doi: "10.1109/ACCESS.2019.2957179"
