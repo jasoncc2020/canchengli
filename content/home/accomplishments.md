@@ -37,7 +37,7 @@ item:
   description: ""
   organization: IEEE
   organization_url: https://www.sciencedirect.com/journal/isa-transactions
-  title: IEEE Transactions  
+  title: IEEE Transactions on Computational Social Systems  
   url: ""  
   
 - date_end: ""
