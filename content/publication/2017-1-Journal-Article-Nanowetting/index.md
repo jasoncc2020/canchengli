@@ -2,7 +2,7 @@
 title: "3. A novel automatic classification detection for epileptic seizure based
 on dictionary learning and sparse representation (Times cited = 8)"
 authors:
-- Hong Peng#, Cancheng Li#, Jinlong Chao, Tao Wang, Chengjian Zhao, Xiaoning Huo, Bin Hu
+- H. Peng#, C. Li#, J. Chao, T. Wang, C. Zhao, X. Huo, B. Hu
 date: 2019-12-13"
 doi: "10.1016/j.neucom.2019.12.010"
 
@@ -52,7 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Nano-Wetting]
+projects: [Automatic detection]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
