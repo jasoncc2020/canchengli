@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "**Numbers: 7 | Citations: 23 | h-index: 3 | i10-index: 1**"
+subtitle = "**Numbers: 8 | Citations: 23 | h-index: 3 | i10-index: 1**"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,7 +36,7 @@ subtitle = "**Numbers: 7 | Citations: 23 | h-index: 3 | i10-index: 1**"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
