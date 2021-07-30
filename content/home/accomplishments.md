@@ -53,7 +53,7 @@ item:
   description: ""
   organization: IEEE
   organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
-  title: Co-IEEE Transactions on Affective Computing Journal 
+  title: Co-IEEE Transactions on Affective Computing  
   url: ""
   
   - date_end: ""
