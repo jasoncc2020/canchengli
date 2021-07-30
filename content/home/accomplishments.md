@@ -27,7 +27,7 @@ item:
 - date_end: ""
   date_start: "2019-10-01"
   description: ""
-  organization: 
+  organization: Elsevier
   organization_url: https://www.sciencedirect.com/journal/isa-transactions
   title: ISA Transactions  
   url: ""
