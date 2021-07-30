@@ -56,12 +56,12 @@ item:
   title: Co-IEEE Transactions on Affective Computing  
   url: ""
   
- - date_end: ""
-  date_start: "2019-05-01"
+  - date_end: ""
+  date_start: "2019-01-01"
   description: ""
   organization: IEEE
   organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
-  title: IEEE Transactions on Computational Social Systems
+  title: Co-IEEE Transactions on Computational Social Systems  
   url: ""
   
   
