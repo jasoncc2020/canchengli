@@ -41,6 +41,15 @@ item:
   url: ""
 
 - date_end: ""
+  date_start: "2021-01-01"
+  description: ""
+  organization: IEEE
+  organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
+  title: IEEE Sensor Journal  
+  url: ""
+
+
+- date_end: ""
   date_start: "2019-01-01"
   description: ""
   organization: IEEE
