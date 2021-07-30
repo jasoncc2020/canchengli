@@ -33,6 +33,14 @@ item:
   url: ""
   
 - date_end: ""
+  date_start: "2018-06-01"
+  description: ""
+  organization: IEEE
+  organization_url: https://www.sciencedirect.com/journal/isa-transactions
+  title: IEEE Transactions  
+  url: ""  
+  
+- date_end: ""
   date_start: "2018-10-01"
   description: ""
   organization: IEEE
