@@ -96,11 +96,11 @@ phone = "+86 18800133440"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "IRC204", city = "Beijing", region = "Haidian District", postcode = "Xueyuan Road 37", country = "China", country_code = "CN"}
+#address = {street = "IRC204", city = "Beijing", region = "Haidian District", postcode = "Xueyuan Road 37", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.985", longitude = "116.3486"}
+#coordinates = {latitude = "39.985", longitude = "116.3486"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
